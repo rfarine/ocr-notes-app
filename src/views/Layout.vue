@@ -13,7 +13,7 @@
           <ion-label>Inbox</ion-label>
         </ion-tab-button>
 
-        <ion-tab-button tab="inbox" href="/camera">
+        <ion-tab-button tab="camera" href="/camera">
           <ion-icon :icon="camera" />
           <ion-label>Import</ion-label>
         </ion-tab-button>
