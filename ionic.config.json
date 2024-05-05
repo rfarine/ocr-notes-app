@@ -1,0 +1,7 @@
+{
+  "name": "ocr-notes-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
