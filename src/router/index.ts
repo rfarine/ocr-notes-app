@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from "@ionic/vue-router";
 import { RouteRecordRaw } from "vue-router";
-import Camera from "@/views/Camera.vue";
 import Home from "@/views/Home.vue";
+import Import from "@/views/Import.vue";
 import Inbox from "@/views/Inbox.vue";
 import Layout from "@/views/Layout.vue";
 import Saved from "@/views/Saved.vue";
@@ -32,9 +32,9 @@ const routes: Array<RouteRecordRaw> = [
         component: Inbox,
       },
       {
-        path: "camera",
-        name: "Camera",
-        component: Camera,
+        path: "import",
+        name: "Import",
+        component: Import,
       },
       {
         path: "saved",

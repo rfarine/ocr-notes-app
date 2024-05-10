@@ -2,10 +2,10 @@
   <ion-page>
     <ion-header>
       <ion-toolbar>
-        <ion-title>Camera</ion-title>
+        <ion-title>Import</ion-title>
       </ion-toolbar>
     </ion-header>
-    <ion-content> Camera content </ion-content>
+    <ion-content> Import content </ion-content>
   </ion-page>
 </template>
 

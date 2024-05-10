@@ -5,7 +5,7 @@
         <ion-title>Home</ion-title>
       </ion-toolbar>
     </ion-header>
-    <ion-content> Hommmmee content </ion-content>
+    <ion-content class="ion-padding"> Hommmmee content </ion-content>
   </ion-page>
 </template>
 
